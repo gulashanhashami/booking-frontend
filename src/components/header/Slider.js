@@ -7,7 +7,7 @@ import img1 from "../../resources/images/sliderImages/img1.jpg";
 import img2 from "../../resources/images/sliderImages/img2.jpg";
 import img3 from "../../resources/images/sliderImages/img3.jpg";
 
-// dummy data need to replace with backend API
+// dummy data, need to replace with backend API
 const slides = [
     {
         title: "Book your luxury hotel for vacation",
